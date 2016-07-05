@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpcTestModel", "IpcTestModel\IpcTestModel.csproj", "{7B05AB56-0C97-48D6-B6BF-6CB01212862A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpcTestServer", "IpcTestServer\IpcTestServer.csproj", "{DD94244F-FC11-4796-8872-499D542C36F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IpcTestClient", "IpcTestClient\IpcTestClient.csproj", "{A3C09565-87B8-4C25-9990-7A77A3A27830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B05AB56-0C97-48D6-B6BF-6CB01212862A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B05AB56-0C97-48D6-B6BF-6CB01212862A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B05AB56-0C97-48D6-B6BF-6CB01212862A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B05AB56-0C97-48D6-B6BF-6CB01212862A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD94244F-FC11-4796-8872-499D542C36F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD94244F-FC11-4796-8872-499D542C36F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD94244F-FC11-4796-8872-499D542C36F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD94244F-FC11-4796-8872-499D542C36F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3C09565-87B8-4C25-9990-7A77A3A27830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C09565-87B8-4C25-9990-7A77A3A27830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C09565-87B8-4C25-9990-7A77A3A27830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C09565-87B8-4C25-9990-7A77A3A27830}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
